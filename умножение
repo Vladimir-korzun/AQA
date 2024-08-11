@@ -1,0 +1,5 @@
+print("Введите два числа")
+sum1 = int (input())
+sum2 = int (input())
+sum3 = int (sum1 * sum2)
+print("ответ =", sum3 )
